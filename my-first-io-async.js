@@ -11,3 +11,4 @@ function handleFile(err, file) {
 }
 
 fs.readFile(filename, 'utf8', handleFile);
+// Usage: node my-first-io-async.js <filename>      

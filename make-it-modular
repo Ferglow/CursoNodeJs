@@ -12,3 +12,4 @@ filterFn(dirPath, filterStr, (err, list) => {
         console.log(file);
     });
 });
+// Usage: node make-it-modular.js <directory> <extension>     
