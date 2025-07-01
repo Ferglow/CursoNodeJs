@@ -36,3 +36,7 @@
    » To verify your program, run: learnyounode verify program.js                 
    » For help run: learnyounode help                                             
    
+
+   ## Imagen ilustrativa
+
+   ![alt text](image.png)
